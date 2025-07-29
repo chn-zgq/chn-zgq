@@ -4,8 +4,8 @@ Welcome to chn-zgq's repository. There maybe be some useful tools for u.
 
 If u have some issues. Please contact me via the following methods.
 -  Email: 3312164767@qq.com, chn.ujn.zgq@gmail.com
--  website: http://www.zgq-hub.site/
--  Blog: http://blog.zgq-hub.site/
+-  website: https://www.zgq-hub.site/
+-  Blog: https://blog.zgq-hub.site/
 -  QQ: 3312164767
 -  Wechat: chn-zgq
 <!--
